@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="please_enter_amount">Please enter amount</string>
+    <string name="num_of_pax">num of pax</string>
+    <string name="discount">Discount (%)</string>
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+</resources>

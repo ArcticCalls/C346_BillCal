@@ -1,0 +1,2 @@
+rootProject.name='C346_BillCal'
+include ':app'
